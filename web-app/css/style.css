@@ -1,0 +1,21 @@
+
+#project-detail {}
+#project-detail .description {  }
+#project-detail .description .date { }
+
+
+.projects .item {
+    border-bottom: 1px solid #f0f0f0;
+    padding: 5px;
+}
+.projects .item .project-name { font-size: 16px }
+.projects .item .project-description,
+.projects .item .project-date,
+.projects .item .author{ font-size: 12px }
+
+.top-line {
+    background-color: #f0f0f0;
+    height: 30px;
+}
+.top-line .items ul { list-style: none }
+.top-line .items ul li { height: 30px; line-height: 30px; padding: 0 10px; float: left;  }

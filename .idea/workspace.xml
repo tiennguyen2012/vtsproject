@@ -5,7 +5,45 @@
     <ignored path="vtsproject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/main.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368591836970" ignored="false" />
+    <file path="/main.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368593057808" ignored="false" />
+    <file path="/style.css" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368604978270" ignored="false" />
+    <file path="/_header.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368593191655" ignored="false" />
+    <file path="/index.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368604859877" ignored="false" />
+    <file path="/_left.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368593394553" ignored="false" />
+    <file path="/_right.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368593454111" ignored="false" />
+    <file path="/Project.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368671001498" ignored="false" />
+    <file path="/BootStrap.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368602972034" ignored="false" />
+    <file path="/UrlMappings.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368601214601" ignored="false" />
+    <file path="$PROJECT_DIR$/test/unit/vtsproject/IndexControllerTests.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368601057399" ignored="false" />
+    <file path="/IndexController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368601394906" ignored="false" />
+    <file path="$PROJECT_DIR$/test/unit/vtsproject/UserTests.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368601845596" ignored="false" />
+    <file path="/User.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368667358391" ignored="false" />
+    <file path="$PROJECT_DIR$/test/unit/vtsproject/ProjectControllerTests.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368604684327" ignored="false" />
+    <file path="/ProjectController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368667530166" ignored="false" />
+    <file path="/detail.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368606223014" ignored="false" />
+    <file path="$PROJECT_DIR$/test/unit/vtsproject/AuthenControllerTests.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368667566043" ignored="false" />
+    <file path="/AuthenController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368669814249" ignored="false" />
+    <file path="/login.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368668401149" ignored="false" />
+    <file path="E:/4Impact/Connect4impact/Server/grails-app/controllers/au/com/ps4impact/connect/server/LoginController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368669559099" ignored="false" />
+    <file path="/fragment.java" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368694214297" ignored="false" />
+    <file path="/Config.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368762141565" ignored="false" />
+    <file path="E:/DemoTempDownload/Highcharts-3.0.1 (1)/exporting-server/java/highcharts-export/highcharts-export.iml" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368678192626" ignored="false" />
+    <file path="E:/DemoTempDownload/Highcharts-3.0.1 (1)/exporting-server/java/highcharts-export/.idea/workspace.xml" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368699008341" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/views/profile/_profile.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369124029966" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/controllers/com/ps4impact/consultantProfile/ProfileController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369125196066" ignored="false" />
+    <file path="/ProfileController.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369125179823" ignored="false" />
+    <file path="/_profile.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369122726317" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/controllers/com/ps4impact/consultantProfile/TestSVGGen.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368694215656" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/conf/BuildConfig.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369020832407" ignored="false" />
+    <file path="E:/DemoTempDownload/Highcharts-3.0.1 (1)/exporting-server/java/highcharts-export/src/main/java/com/highcharts/export/util/MimeType.java" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368755322824" ignored="false" />
+    <file path="/Dummy.txt" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369011523437" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/views/profile/_profile_old.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368756445534" ignored="false" />
+    <file path="/_profile_old.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368756437377" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/conf/Config.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368762142156" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/conf/UrlMappings.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1368764536952" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/conf/ApplicationResources.groovy" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369106908756" ignored="false" />
+    <file path="E:/4Impact/ConsultantProfile/grails-app/views/profile/_render.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369112171875" ignored="false" />
+    <file path="/_render.gsp" changelist="e234a663-dca8-42ce-a47b-1f1e97c3bc84" time="1369110926938" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +52,12 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CloverPlugin" class="com.cenqua.clover.idea.config.IdeaCloverConfig">
-    <loadPerTestData>true</loadPerTestData>
     <projectRebuild class="com.cenqua.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <loadPerTestData>true</loadPerTestData>
     <filteredHighlight>-4144960</filteredHighlight>
     <relativeInitString>false</relativeInitString>
-    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
     <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
     <periodicRefresh>false</periodicRefresh>
     <notCoveredStripe>-65536</notCoveredStripe>
     <flushPolicy>0</flushPolicy>
@@ -28,15 +66,15 @@
     <languageLevel>1.3</languageLevel>
     <manualInitString null="true" />
     <autoRefreshInterval>2000</autoRefreshInterval>
-    <flushInterval>5000</flushInterval>
     <showInline>true</showInline>
+    <flushInterval>5000</flushInterval>
     <showSummaryInToolwindow>true</showSummaryInToolwindow>
     <autoRefresh>true</autoRefresh>
     <coveredHighlight>-3605816</coveredHighlight>
     <enabled>false</enabled>
     <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
-    <excludes null="true" />
     <filteredStripe>-12566464</filteredStripe>
+    <excludes null="true" />
     <calculateTestCoverage>true</calculateTestCoverage>
     <instrumentTests>true</instrumentTests>
     <outOfDateHighlight>-32</outOfDateHighlight>
@@ -56,8 +94,8 @@
     <showGutter>true</showGutter>
     <failedCoveredStripe>-14336</failedCoveredStripe>
     <regexpContexts class="java.util.ArrayList" />
-    <autoScrollFromSource>false</autoScrollFromSource>
     <flattenPackages>false</flattenPackages>
+    <autoScrollFromSource>false</autoScrollFromSource>
     <showErrorMarks>true</showErrorMarks>
     <showTooltips>true</showTooltips>
     <showSummaryInToolbar>true</showSummaryInToolbar>
@@ -118,28 +156,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Config.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="39" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
+            <state line="63" column="35" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.4508772">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <file leaf-file-name="User.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/vtsproject/User.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="78" selection-start="1911" selection-end="1911" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.gsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="61" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.5830325">
+            <state line="0" column="18" selection-start="8" selection-end="18" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,13 +184,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/vtsproject/IndexController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/index/index.gsp" />
+        <option value="$PROJECT_DIR$/web-app/css/style.css" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/project/detail.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/vtsproject/ProjectController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/vtsproject/SpringSecurityUtils.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/vtsproject/AuthenController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/vtsproject/Project.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/vtsproject/User.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/authen/login.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
@@ -202,112 +245,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web-app" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.PsiDirectoryNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vtsproject-grailsPlugins" />
-              <option name="myItemType" value="com.cenqua.clover.idea.projectview.ProjectViewModuleNodeWrapper" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -315,20 +252,52 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="E:/4Impact/ConsultantProfile" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VTSGroup\vtsproject\grails-app\views\index" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="vtsproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VTSGroup\vtsproject\grails-app\views\layouts" />
+      <recent name="E:\VTSGroup\vtsproject\grails-app\views" />
+    </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:vtsproject">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="E:\VTSGroup\vtsproject" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -339,18 +308,25 @@
       <setting name="launchBrowser" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -379,19 +355,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -451,6 +414,24 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e234a663-dca8-42ce-a47b-1f1e97c3bc84" name="Default" comment="" />
@@ -460,38 +441,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33995584" sideWeight="0.29082176" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67108166" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.66004413" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33942" sideWeight="0.7054429" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.48719317" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -526,7 +507,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -550,23 +531,92 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="78" selection-start="1911" selection-end="1911" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="55" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/_right.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="15" selection-start="155" selection-end="155" vertical-scroll-proportion="0.1098546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/vtsproject/IndexController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="37" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="61" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.5830325">
+        <state line="7" column="64" selection-start="428" selection-end="428" vertical-scroll-proportion="0.038772214" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/vtsproject/Project.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="37" selection-start="226" selection-end="226" vertical-scroll-proportion="-5.06" />
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/vtsproject/ProjectController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="43" selection-start="128" selection-end="128" vertical-scroll-proportion="-5.173913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/vtsproject/AuthenController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="43" selection-start="93" selection-end="93" vertical-scroll-proportion="-8.130435" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.grails/2.2.2/projects/vtsproject/plugins/authentication-2.0.1/grails-app/views/authentication/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="80" selection-start="343" selection-end="343" vertical-scroll-proportion="-3.122449" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/project/detail.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="40" selection-start="608" selection-end="608" vertical-scroll-proportion="-5.5510206" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="46" selection-start="0" selection-end="1382" vertical-scroll-proportion="-4.428571" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/authen/login.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="90" selection-start="565" selection-end="565" vertical-scroll-proportion="-4.5102043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="58" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/vtsproject/User.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="8" selection-end="18" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="35" selection-start="2781" selection-end="2781" vertical-scroll-proportion="0.4508772">
           <folding />
         </state>
       </provider>
@@ -578,7 +628,7 @@
         <entry key="vtsproject">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="948249190" />
+              <option name="buildConfigCrc" value="363251331" />
               <option name="pluginDependenciesCrc" value="-1084231967" />
               <option name="properties">
                 <map>

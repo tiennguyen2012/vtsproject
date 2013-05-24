@@ -60,5 +60,7 @@ grails.project.dependency.resolution = {
 
         compile ':cache:1.0.1'
         compile ":twitter-bootstrap:2.3.0"
+        runtime ":jquery:1.8.3"
+        compile ":authentication:2.0.1"
     }
 }
