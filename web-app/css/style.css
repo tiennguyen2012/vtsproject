@@ -14,7 +14,7 @@
 .projects .item .author{ font-size: 12px }
 
 .top-line {
-    background-color: #f0f0f0;
+    background-color: orange;
     height: 30px;
 }
 .top-line .items ul { list-style: none }
